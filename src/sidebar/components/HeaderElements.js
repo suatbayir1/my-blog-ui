@@ -6,14 +6,14 @@ import { Link } from 'react-router-dom'
 import { Icon, TreeNav, IconFont, ComponentColor, } from '@influxdata/clockface';
 
 // Assets
-import logo from '../../assets/images/machinaide.png'
+// import logo from '../../assets/images/machinaide.png'
 
 export default class HeaderElements extends Component {
     render() {
         return (
             <TreeNav.Header
                 icon={<Icon glyph={IconFont.CuboNav} />}
-                label={<img src={logo} />}
+                label={"Label"}
                 color={ComponentColor.Secondary}
                 linkElement={className => <Link className={className} to={"/"} />}
             />
