@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa2ba83a.css",
+    "main.js": "/static/js/main.0ddcce1b.js",
+    "static/js/787.349b0e60.chunk.js": "/static/js/787.349b0e60.chunk.js",
+    "static/media/background1.png": "/static/media/background1.5269ec8b6c5297af37d6.png",
+    "static/media/bg_1.jpg": "/static/media/bg_1.d86c900be96e560271fa.jpg",
+    "static/media/background4.png": "/static/media/background4.18d818271b8d15711830.png",
+    "static/media/icomoon.svg": "/static/media/icomoon.85f06ce45045984eeb72.svg",
+    "static/media/Rubik-Medium.woff2": "/static/media/Rubik-Medium.2b74165ca2a6356adf6a.woff2",
+    "static/media/Rubik-Bold.woff2": "/static/media/Rubik-Bold.17f7113e92ad8b63c1d3.woff2",
+    "static/media/Rubik-Regular.woff2": "/static/media/Rubik-Regular.2d2d778d18ed20fa147b.woff2",
+    "static/media/Rubik-Black.woff2": "/static/media/Rubik-Black.5b3a42f613a40da0cfa5.woff2",
+    "static/media/Rubik-Light.woff2": "/static/media/Rubik-Light.45aacd25bc40539b54fc.woff2",
+    "static/media/IBMPlexMono-SemiBold.woff2": "/static/media/IBMPlexMono-SemiBold.4ce94f810c6fc639d995.woff2",
+    "static/media/IBMPlexMono-Medium.woff2": "/static/media/IBMPlexMono-Medium.72b3d68caaa27f503a75.woff2",
+    "static/media/machinaide.png": "/static/media/machinaide.be3f7b49e8d58dd4a173.png",
+    "static/media/icomoon.eot": "/static/media/icomoon.775de637befd425e9efa.eot",
+    "static/media/icomoon.woff": "/static/media/icomoon.dc3108747abdddbd66b1.woff",
+    "static/media/icomoon.ttf": "/static/media/icomoon.30befd1caf1dc42e6ca1.ttf",
+    "static/media/icomoon.woff2": "/static/media/icomoon.0f93f60307ef390875a1.woff2",
+    "static/media/drag-n-drop.svg": "/static/media/drag-n-drop.3af7446f74ff82c66d1e.svg",
+    "static/media/notification.svg?s3g3t9": "/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "index.html": "/index.html",
+    "static/media/notification.ttf?s3g3t9": "/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "main.fa2ba83a.css.map": "/static/css/main.fa2ba83a.css.map",
+    "main.0ddcce1b.js.map": "/static/js/main.0ddcce1b.js.map",
+    "787.349b0e60.chunk.js.map": "/static/js/787.349b0e60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa2ba83a.css",
+    "static/js/main.0ddcce1b.js"
+  ]
+}
